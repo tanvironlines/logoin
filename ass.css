@@ -1,0 +1,207 @@
+body{
+
+	background-color:/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cedce7+0,596a72+100;Grey+3D+%231 */
+background: #cedce7; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #cedce7 0%, #596a72 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  #cedce7 0%,#596a72 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  #cedce7 0%,#596a72 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+ ;
+	margin: 0px auto;
+	height: 1200px;
+	width: 100%;
+}
+
+h1{
+
+	font-size: 15px;
+}
+
+.main-content{
+
+	background-color: none;
+	margin: 0px auto;
+	width: 960px;
+	height: auto;
+	box-shadow: 0px 0px  30px #AEF6FC;
+}
+
+.header-contener{
+
+	background-color: none;
+	margin: 0px auto;
+	width: 960px;
+	height: 200px;
+	
+}
+
+.header-contener h1{
+
+	text-align: center;
+	font-family: fantasy;
+	font-size: 50px;
+	padding-top: 20px;
+	text-shadow: 0px 0px  20px #AEF6FC;
+
+
+}
+
+h2{
+
+	text-align: center;
+	font-size: 12px;
+	color: #474747;
+	padding-bottom: 20px;
+}
+
+b{
+
+	font-size: 20px;
+	font-family: monospace;
+
+}
+
+
+tbody img{
+
+
+	height: 200px;
+	width: 250px;
+	border:3px solid #490041; 
+	border-radius: 10px;
+	box-shadow: 0px 0px  20px #474747;
+	
+}
+
+
+
+hr{
+
+	box-shadow: 0px 0px  20px #AEF6FC;
+	height:2px;
+	background-color: #AEF6FC;
+
+}
+
+.nav{
+	
+	height:40px;
+	background-color: none;
+	box-shadow: 0px 0px  20px #AEF6FC;
+	margin-top: 80px;
+
+}
+
+.nav ul{
+	padding:0;
+	margin:0;
+}
+
+.nav ul li{
+	list-style:none;
+}
+
+.nav ul li a{
+	
+	text-decoration:none;
+	float:left;
+	padding:8px 25px;
+	font-size:20px;
+	font-family: fantasy;
+	color:black;
+	border-right: 1px solid #AEF6FC;
+	box-shadow: 0px 1px  10px #00FE19;
+
+}
+
+.nav ul li a:hover{
+	
+	background-color:none;
+	height: 22px;
+	box-shadow: 0px 0px  5px #A332A9;
+
+}
+
+
+img:hover{
+	
+	background-color:none;
+	box-shadow: 0px 1px  20px #AEF6FC;
+
+
+}
+
+.post{
+
+
+	width: 630px;
+	height: auto;
+	margin-top: 20px;
+	background-color:none ;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-right: 1px solid #AEF6FC;
+	float: left;
+
+	
+}
+
+
+
+.post1{
+
+
+	width: 300px;
+	height: auto;
+	background-color:none ;
+	float: right;
+	
+
+
+	
+}
+
+.post h1{
+
+	font-size: 20px;
+	text-shadow: 0px 0px  10px #AEF6FC;
+	font-family: monospace;
+	color:black;
+	text-align: center;
+	
+
+}
+
+.post1 h1{
+
+	font-size: 20px;
+	text-shadow: 0px 0px  10px #AEF6FC;
+	color:black;
+	font-family: monospace;
+	text-align: center;
+	
+}
+
+.post img{
+
+
+	height: 200px;
+	width: 200px;
+	border-radius: 10px;
+	margin-left: 35%;
+}
+
+
+
+.post1 img{
+
+
+	height: 150px;
+	width: 200px;
+	border-radius: 10px;
+}
+
+p{
+
+	font-family: monospace;
+}
